@@ -5,7 +5,8 @@ const PORT = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
   res.send(`
-    <h1>Ebrar Duran Ödevi</h1>
+    <h1>Rumeysa Ebrar Duran</h1>
+    <h2> 221002053 (iö) </h2>
     
   `);
 });
